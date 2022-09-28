@@ -1,7 +1,7 @@
 {
   "name": "test-theme-syntax",
   "theme": "syntax",
-  "version": "1.0.5",
+  "version": "1.1.6",
   "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
