@@ -1,6 +1,6 @@
 # test-theme-syntax theme
 
-555 555
+555 555 555
 
 A short description of your theme.
 
